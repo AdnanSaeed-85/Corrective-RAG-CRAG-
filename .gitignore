@@ -11,3 +11,4 @@ wheels/
 myenv
 .env
 new_env
+CONFIG.py
